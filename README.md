@@ -10,7 +10,7 @@ Using more than one model, predict the price of the house using the given datase
 accuracy of the models along with the drawbacks of each technique's assumptions before recommending
 the final prediction model.
 
-## Assignment 2: Product matching Attached is sample product lists from Flipkart & Amazon
+## Assignment 2: Product matching (Flipkart & Amazon)
 Dataset: <DS - Assignment Part 2 data set.zip>
 Link: https://www.dropbox.com/sh/aypq6h3254207bs/AACzMLvo-XtK9sYAAma6FW0la?dl=0
 
