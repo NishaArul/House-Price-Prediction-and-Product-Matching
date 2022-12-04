@@ -1,4 +1,4 @@
-# Internship-Assignments
+# Internship_Assignments
 ## Assignment 1: Predict the price of a house
 Dataset: <DS - Assignment Part 1 data set.xlsx>
 Link: https://www.dropbox.com/sh/aypq6h3254207bs/AACzMLvo-XtK9sYAAma6FW0la?dl=0
